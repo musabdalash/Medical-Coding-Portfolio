@@ -23,13 +23,13 @@
 
 ## Why Choose Me: 
 ### Attention to Detail: 
-	I meticulously review billing documents to ensure accuracy and compliance.
+I meticulously review billing documents to ensure accuracy and compliance.
  
 ### Adaptability: 
-	As a freelancer, I thrive in remote work environments and manage my schedule effectively.
+As a freelancer, I thrive in remote work environments and manage my schedule effectively.
  
 ### Passion for Healthcare: 
-	My background in dentistry fuels my commitment to improving healthcare quality and patient experiences.
+My background in dentistry fuels my commitment to improving healthcare quality and patient experiences.
  
 
 # List of Projects
