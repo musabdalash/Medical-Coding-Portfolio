@@ -2,7 +2,7 @@
 ## Dentist - Medical Coder
  
 # About Me
-### As a seasoned dentist with a passion for and healthcare quality improvement, I have recently transitioned into the field of medical coding and billing. My knowledge and ambitions lie in ensuring accurate and efficient billing processes while maintaining patient confidentiality and legal compliance. Here’s what I bring to the table: 
+### 	As a seasoned dentist with a passion for and healthcare quality improvement, I have recently transitioned into the field of medical coding and billing. My knowledge and ambitions lie in ensuring accurate and efficient billing processes while maintaining patient confidentiality and legal compliance. Here’s what I bring to the table: 
 
 ## Key Skills and Responsibilities: 
 ### Medical Coding: 
@@ -23,14 +23,15 @@
 
 ## Why Choose Me: 
 ### Attention to Detail: 
-- I meticulously review billing documents to ensure accuracy and compliance.
+	I meticulously review billing documents to ensure accuracy and compliance.
  
 ### Adaptability: 
-- As a freelancer, I thrive in remote work environments and manage my schedule effectively.
+	As a freelancer, I thrive in remote work environments and manage my schedule effectively.
  
 ### Passion for Healthcare: 
-My background in dentistry fuels my commitment to improving healthcare quality and patient experiences.
+	My background in dentistry fuels my commitment to improving healthcare quality and patient experiences.
  
+
 # List of Projects
 - [Project 1: Crohn's Disease Coding](project1.md)
 - [Project 2: Medical Billing System](project2.md)
