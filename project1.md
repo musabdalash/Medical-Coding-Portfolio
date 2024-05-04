@@ -12,46 +12,46 @@ Sample Files:
    - **Presenting Symptoms**: Abdominal pain, diarrhea, fatigue, weight loss
    - **Diagnostic Findings**: Active inflammation in the terminal ileum and cecum
    
-#### ICD-10 Codes Assigned**:
-- K50.90 (Crohn's disease, unspecified site)
-- I10 (Hypertension)
-- E11.9 (Type 2 diabetes mellitus without complications)
-- M81.0 (Postmenopausal osteoporosis with pathological fracture)
-- D50.9 (Iron deficiency anemia, unspecified)
-- F32.9 (Major depressive disorder, single episode, unspecified)
+#### ICD-10 Codes Assigned:
+- `K50.90` (Crohn's disease, unspecified site)
+- `I10` (Hypertension)
+- `E11.9` (Type 2 diabetes mellitus without complications)
+- `M81.0` (Postmenopausal osteoporosis with pathological fracture)
+- `D50.9` (Iron deficiency anemia, unspecified)
+- `F32.9` (Major depressive disorder, single episode, unspecified)
 
 
 #### Documentation and Rationale
-1. **Principle Diagnosis: Crohn's Disease (K50.90)**
+1. **Principle Diagnosis: Crohn's Disease `K50.90`**
 - **Explanation**:
   - Emily's colonoscopy confirmed active inflammation in the terminal ileum and cecum, along with ulcerations and strictures.
-  - Since the specific location is not mentioned in the documentation, we use the unspecified code for Crohn's disease (K50.90).
+  - Since the specific location is not mentioned in the documentation, we use the unspecified code for Crohn's disease `K50.90`.
   - The ICD-10-CM guidelines allow for using the unspecified code when the specific site is not documented.
-  - In this case, K50.90 accurately represents the diagnosis without specifying the exact location within the gastrointestinal tract.
+  - In this case, `K50.90` accurately represents the diagnosis without specifying the exact location within the gastrointestinal tract.
 
 2. **Additional Diagnoses:**
-- **Hypertension (I10)**:
+- **Hypertension `I10`**:
   - **Explanation**:
     - Emily has a history of controlled hypertension.
-    - We assign I10 (Essential (primary) hypertension) as an additional diagnosis.
+    - We assign `I10` (Essential (primary) hypertension) as an additional diagnosis.
     - Proper sequencing ensures that the primary diagnosis (Crohn's disease) takes precedence over hypertension.
 
-- **Type 2 Diabetes Mellitus (E11.9)**:
+- **Type 2 Diabetes Mellitus `E11.9`**:
   - **Explanation**:
     - Emily requires insulin therapy for managing her type 2 diabetes.
-    - We assign E11.9 (Type 2 diabetes mellitus without complications) as an additional diagnosis.
+    - We assign `E11.9` (Type 2 diabetes mellitus without complications) as an additional diagnosis.
     - It's essential to document comorbidities that impact patient care and management.
 
-- **Osteoporosis (M81.0)**:
+- **Osteoporosis `M81.0`**:
   - **Explanation**:
     - Emily has a history of fragility fractures related to osteoporosis.
-    - We assign M81.0 (Postmenopausal osteoporosis with pathological fracture) as an additional diagnosis.
+    - We assign `M81.0` (Postmenopausal osteoporosis with pathological fracture) as an additional diagnosis.
     - Proper coding reflects the patient's overall health status.
 
-- **Anemia (D50.9)**:
+- **Anemia `D50.9`**:
   - **Explanation**:
     - Chronic iron-deficiency anemia is documented in Emily's medical history.
-    - We assign D50.9 (Iron deficiency anemia, unspecified) as an additional diagnosis.
+    - We assign `D50.9` (Iron deficiency anemia, unspecified) as an additional diagnosis.
     - Accurate coding ensures comprehensive representation of the patient's conditions.
 
 ### 3. **Sequencing Rules**:
