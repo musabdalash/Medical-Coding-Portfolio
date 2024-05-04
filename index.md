@@ -1,10 +1,10 @@
-# <span style="color:purple;">**Musab Adam**</span> 
+
 <div style="position: absolute; top: 0; right: 0;">
+# <span style="color:purple;">**Musab Adam**</span>
+## <span style="color:purple;">**Dentist - Medical Coder**</span>
 <img src="dalash.jpg" alt="Profile Photo" style="height: 150px;">
 </div>
 
-## <span style="color:purple;">**Dentist - Medical Coder**</span>
- 
 # About Me
 ### 	As a seasoned dentist with a passion for and healthcare quality improvement, I have recently transitioned into the field of medical coding and billing. My knowledge and ambitions lie in ensuring accurate and efficient billing processes while maintaining patient confidentiality and legal compliance. Here’s what I bring to the table: 
 
