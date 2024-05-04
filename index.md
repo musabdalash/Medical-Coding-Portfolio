@@ -32,7 +32,8 @@ As a freelancer, I thrive in remote work environments and manage my schedule eff
 My background in dentistry fuels my commitment to improving healthcare quality and patient experiences.
  
 
-# List of Projects
+# List of Projects:
+**AI-generated medical cases aided to help me practicing medical coding.**
 - [Project 1: Crohn's Disease Coding](project1.md)
 - [Project 2: Medical Billing System](project2.md)
 - [Project 3: Crohn's Disease Coding](project3.md)
