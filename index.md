@@ -1,5 +1,6 @@
-# <span style="color:purple;">**Musab Adam**</span> <div style="position: absolute; top: 0; right: 0;">
-    <img src="dalash.jpg" alt="Profile Photo" style="height: 150px;">
+# <span style="color:purple;">**Musab Adam**</span> 
+<div style="position: absolute; top: 0; right: 0;">
+<img src="dalash.jpg" alt="Profile Photo" style="height: 150px;">
 </div>
 
 ## <span style="color:purple;">**Dentist - Medical Coder**</span>
