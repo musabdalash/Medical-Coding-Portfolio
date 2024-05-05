@@ -1,25 +1,3 @@
-# Crohn's Disease Coding Project
-
-
-### Project Overview:
-In this project, I'll focus on coding Crohn's disease case using the ICD-10-CM system. My goal is to accurately assign codes for various conditions related to Crohn's disease, considering both simple and complex scenarios.
-
-
-#### Case Study:
-   - **Patient Information**: Emily Johnson, 42 years old
-   - **Medical History**: Crohn's disease, hypertension, type 2 diabetes, osteoporosis, anemia, depression
-   - **Presenting Symptoms**: Abdominal pain, diarrhea, fatigue, weight loss
-   - **Diagnostic Findings**: Active inflammation in the terminal ileum and cecum
-   
-#### ICD-10 Codes Assigned:
-- `K50.90` (Crohn's disease, unspecified site)
-- `I10` (Hypertension)
-- `E11.9` (Type 2 diabetes mellitus without complications)
-- `M81.0` (Postmenopausal osteoporosis with pathological fracture)
-- `D50.9` (Iron deficiency anemia, unspecified)
-- `F32.9` (Major depressive disorder, single episode, unspecified)
-
-
 # Comprehensive Medical Coding Case Study
 
 
