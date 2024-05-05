@@ -1,7 +1,7 @@
 # Musab Adam
 ## Dentist - Medical Coder
 
-<div style="position: absolute; top: 1; right: 0;">
+<div style="position: absolute; top: -1; right: 0;">
 <img src="dalash.jpg" alt="Profile Photo" style="height: 150px;">
 </div>
 
