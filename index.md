@@ -1,10 +1,6 @@
 # Musab Adam
 ## Dentist - Medical Coder
 
-<div style="position: absolute; top: -1; right: 0;">
-<img src="dalash.jpg" alt="Profile Photo" style="height: 150px;">
-</div>
-
 # About Me
 ### 	As a seasoned dentist with a passion for and healthcare quality improvement, I have recently transitioned into the field of medical coding and billing. My knowledge and ambitions lie in ensuring accurate and efficient billing processes while maintaining patient confidentiality and legal compliance. Here’s what I bring to the table: 
 
@@ -39,7 +35,7 @@ My background in dentistry fuels my commitment to improving healthcare quality a
 # List of Projects:
 **AI-generated medical cases aided to help me practicing medical coding.**
 - [Project 1: Crohn's Disease Coding](project1.md)
-- [Project 2: Medical Billing System](project2.md)
+- [Project 2: Comprehensive Case Study](project2.md)
 - [Project 3: Crohn's Disease Coding](project3.md)
 - [Project 4: Medical Billing System](project4.md)
 - [Project 5: Crohn's Disease Coding](project5.md)

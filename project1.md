@@ -4,7 +4,6 @@
 ### Project Overview:
 In this project, I'll focus on coding Crohn's disease case using the ICD-10-CM system. My goal is to accurately assign codes for various conditions related to Crohn's disease, considering both simple and complex scenarios.
 
-Sample Files:
 
 #### Case Study:
    - **Patient Information**: Emily Johnson, 42 years old
@@ -60,11 +59,5 @@ Sample Files:
   - Since Emily is primarily seeking treatment for Crohn's disease symptoms (abdominal pain, diarrhea, fatigue), we list it as the primary diagnosis.
   - Hypertension, diabetes, osteoporosis, and anemia are secondary diagnoses.
 
-### 4. **Validation and Accuracy**:
-- **Explanation**:
-  - We validate our code assignments against official ICD-10-CM resources.
-  - Double-checking ensures accuracy, consistency, and adherence to guidelines.
-  - Regular updates and continuous learning help maintain coding proficiency.
 
-
-**[Back](index.md)**
+# [Back](index.md)
