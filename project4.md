@@ -1,4 +1,4 @@
-# Systemic Lupus Erythematosus (SLE)
+# Meningitis
 
 #### Case Study: 
 - **Patient Information:** 55-year-old male, Previously healthy.
