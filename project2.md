@@ -1,4 +1,4 @@
-# Comprehensive Medical Coding Case Study
+# Comprehensive Case Study
 
 
 #### Case Study:
