@@ -1,4 +1,4 @@
-# Crohn's Disease Coding Project
+# Systemic Lupus Erythematosus (SLE)
 
 
 ### Project Overview:
