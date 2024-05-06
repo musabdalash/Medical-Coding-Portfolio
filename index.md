@@ -36,12 +36,4 @@ My background in dentistry fuels my commitment to improving healthcare quality a
 **AI-generated medical cases aided to help me practicing medical coding.**
 - [Project 1: Crohn's Disease Coding](project1.md)
 - [Project 2: Comprehensive Case Study](project2.md)
-- [Project 3: Systemic Lupus Erythematosus](project3.md)
-- [Project 4: Medical Billing System](project4.md)
-- [Project 5: Crohn's Disease Coding](project5.md)
-- [Project 6: Medical Billing System](project6.md)
-- [Project 7: Crohn's Disease Coding](project7.md)
-- [Project 8: Medical Billing System](project8.md)
-- [Project 9: Crohn's Disease Coding](project9.md)
-- [Project 10: Medical Billing System](project10.md)
 
