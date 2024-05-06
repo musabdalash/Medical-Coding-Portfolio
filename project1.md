@@ -13,47 +13,34 @@ In this project, I'll focus on coding Crohn's disease case using the ICD-10-CM s
    
 #### ICD-10 Codes Assigned:
 - `K50.90` (Crohn's disease, unspecified site)
+	- **Rationale:** 
+		- Emily's colonoscopy confirmed active inflammation in the terminal ileum and cecum, along with ulcerations and strictures.
+  		- Since the specific location is not mentioned in the documentation, I used the unspecified code for Crohn's disease `K50.90`.
+  		- The ICD-10-CM guidelines allow for using the unspecified code when the specific site is not documented.
+  		- In this case, `K50.90` accurately represents the diagnosis without specifying the exact location within the gastrointestinal tract.
 - `I10` (Hypertension)
+	- **Rationale:** 
+		- Emily has a history of controlled hypertension.
+    		- I assign `I10` (Essential (primary) hypertension) as an additional diagnosis.
+   		- Proper sequencing ensures that the primary diagnosis (Crohn's disease) takes precedence over hypertension.
 - `E11.9` (Type 2 diabetes mellitus without complications)
-- `M81.0` (Postmenopausal osteoporosis with pathological fracture)
+	- **Rationale:** 
+    		- Emily requires insulin therapy for managing her type 2 diabetes.
+    		- I assign `E11.9` (Type 2 diabetes mellitus without complications) as an additional diagnosis.
+    		- It's essential for me to document comorbidities that impact patient care and management.
+- `M81.0` Age-related osteoporosis without current pathological fracture)
+	- **Rationale:** 
+    		- Emily has a history of fragility related to osteoporosis.
+	    	- I assign `M81.0` (Postmenopausal osteoporosis with pathological fracture) as an additional diagnosis.
+    		- Proper coding reflects the patient's overall health status.
 - `D50.9` (Iron deficiency anemia, unspecified)
+	- **Rationale:** 
+		- We assign `D50.9` (Iron deficiency anemia, unspecified) as an additional diagnosis.
 - `F32.9` (Major depressive disorder, single episode, unspecified)
+	- **Rationale:** Emily has depression and currently under untidepressant but no further specific informaion was mentioned.
 
 
-#### Documentation and Rationale
-1. **Principle Diagnosis: Crohn's Disease `K50.90`**
-- **Explanation**:
-  - Emily's colonoscopy confirmed active inflammation in the terminal ileum and cecum, along with ulcerations and strictures.
-  - Since the specific location is not mentioned in the documentation, we use the unspecified code for Crohn's disease `K50.90`.
-  - The ICD-10-CM guidelines allow for using the unspecified code when the specific site is not documented.
-  - In this case, `K50.90` accurately represents the diagnosis without specifying the exact location within the gastrointestinal tract.
-
-2. **Additional Diagnoses:**
-- **Hypertension `I10`**:
-  - **Explanation**:
-    - Emily has a history of controlled hypertension.
-    - We assign `I10` (Essential (primary) hypertension) as an additional diagnosis.
-    - Proper sequencing ensures that the primary diagnosis (Crohn's disease) takes precedence over hypertension.
-
-- **Type 2 Diabetes Mellitus `E11.9`**:
-  - **Explanation**:
-    - Emily requires insulin therapy for managing her type 2 diabetes.
-    - We assign `E11.9` (Type 2 diabetes mellitus without complications) as an additional diagnosis.
-    - It's essential to document comorbidities that impact patient care and management.
-
-- **Osteoporosis `M81.0`**:
-  - **Explanation**:
-    - Emily has a history of fragility fractures related to osteoporosis.
-    - We assign `M81.0` (Postmenopausal osteoporosis with pathological fracture) as an additional diagnosis.
-    - Proper coding reflects the patient's overall health status.
-
-- **Anemia `D50.9`**:
-  - **Explanation**:
-    - Chronic iron-deficiency anemia is documented in Emily's medical history.
-    - We assign `D50.9` (Iron deficiency anemia, unspecified) as an additional diagnosis.
-    - Accurate coding ensures comprehensive representation of the patient's conditions.
-
-### 3. **Sequencing Rules**:
+#### 3. **Sequencing Rules**:
 - **Explanation**:
   - We sequence the codes based on the reason for the encounter.
   - Since Emily is primarily seeking treatment for Crohn's disease symptoms (abdominal pain, diarrhea, fatigue), we list it as the primary diagnosis.
